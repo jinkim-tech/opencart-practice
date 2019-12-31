@@ -33,7 +33,7 @@ h6 {
 	font-size: 10.2px;
 }
 a {
-	color: #23a1d1;
+	color: #5a5a5a;
 }
 a:hover {
 	text-decoration: none;
@@ -74,7 +74,7 @@ div.required .control-label:before {
 	text-decoration: none;
 	color: #ffffff;
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #5a5a5a, #1f90bb);
 	background-repeat: repeat-x;
 }
 /* top */
@@ -95,7 +95,7 @@ div.required .control-label:before {
 	text-shadow: none;
 	color: #ffffff;
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #5a5a5a, #1f90bb);
 	background-repeat: repeat-x;
 }
 #top .btn-link, #top-links li, #top-links a {
@@ -191,7 +191,7 @@ div.required .control-label:before {
 /* menu */
 #menu {
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #5a5a5a, #1f90bb);
 	background-repeat: repeat-x;
 	border-color: #1f90bb #1f90bb #145e7a;
 	min-height: 40px;
@@ -241,7 +241,7 @@ div.required .control-label:before {
 	text-decoration: none;
 	color: #ffffff;
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #5a5a5a, #1f90bb);
 	background-repeat: repeat-x;
 }
 #menu #category {
@@ -260,7 +260,7 @@ div.required .control-label:before {
 	padding: 2px 18px;
 	float: right;
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #5a5a5a, #1f90bb);
 	background-repeat: repeat-x;
 	border-color: #1f90bb #1f90bb #145e7a;
 }
@@ -417,7 +417,7 @@ footer h5 {
 	color: #ffffff;
 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 	background-color: #229ac8;
-	background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+	background-image: linear-gradient(to bottom, #5a5a5a, #1f90bb);
 	background-repeat: repeat-x;
 	border-color: #1f90bb #1f90bb #145e7a;
 }
@@ -473,7 +473,7 @@ footer h5 {
 .btn-link {
 	border-color: rgba(0, 0, 0, 0);
 	cursor: pointer;
-	color: #23A1D1;
+	color: #5a5a5a;
 	border-radius: 0;
 }
 .btn-link, .btn-link:active, .btn-link[disabled] {
